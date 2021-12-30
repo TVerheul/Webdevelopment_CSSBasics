@@ -1,0 +1,31 @@
+.box-1 {
+  background-color: rgb(133, 135, 141);
+}
+
+.box-2 {
+  background-color: coral;
+  border: solid black;
+}
+
+.box-3 {
+  font-family: cursive;
+  line-height: 1em;
+}
+
+.box-4 {
+  color: burlywood;
+  font: normal 26px arial, helvetica, sans-serif;
+}
+
+.box-5 {
+  background-color: yellow;
+  border-color: tomato;
+  font-weight: bold;
+}
+
+.box-6 {
+  border: 1px solid #999;
+  background-color: #fcfcfc;
+  padding: 4px;
+  border: solid black;
+}
